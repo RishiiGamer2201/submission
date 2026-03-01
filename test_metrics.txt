@@ -1,0 +1,13 @@
+TEST RESULTS (UNet + MiT-B2, V3, 3-way TTA)
+Mean IoU: 0.3309
+
+  Background          : 0.0000
+  Trees               : 0.4089
+  Lush Bushes         : 0.0049
+  Dry Grass           : 0.4592
+  Dry Bushes          : 0.3624
+  Ground Clutter      : 0.0000
+  Logs                : 0.0000
+  Rocks               : 0.0754
+  Landscape           : 0.6681
+  Sky                 : 0.9790
